@@ -1,4 +1,4 @@
-# 📂 프로젝트명: 경기도 지역화폐 분석 (Gyeonggi Local Currency Analysis)
+# 📂 프로젝트명: 경기도 지역화폐 분석
 ### 📌 기간: 2023.03 ~ 2023.05
 ### 📌 분석 방식: Python (Pandas, Matplotlib, Seaborn), SQL
 ### 📌 사용 데이터:
